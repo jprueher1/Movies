@@ -1,0 +1,48 @@
+/*!
+ * JavaWebProgramming v1
+ *
+ * Copyright 2013 George Andrews
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ */
+ .container {width:1000px;}
+ 
+ body {
+ 	background-color: #2A2B25;
+ }
+ 
+ .container h3 {
+ 	color: #E1AC0A;
+ }
+ 
+ .container p {
+ 	color: #A19F89;
+ }
+ 
+ .container label {
+ 	color: #A19F89;
+ }
+ 
+ .hero-unit {
+ 	background-color: #A19F89;
+ }
+ 
+ .moviePic img{
+ 	width: 100%;
+ 	border-radius: 10px;
+ 	opacity: .6;
+ }
+ 
+ .span4 > h2 {
+ 	color: #E1AC0A;
+ }
+ 
+ .span4 > p {
+ 	color: #A19F89;
+ 	padding-left: 12px;
+ }
+ 
+ .nav-tabs a {
+ 	color: #BB0909;
+ }
